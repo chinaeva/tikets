@@ -1,0 +1,2 @@
+# tikets
+aplicación gestión gastos
